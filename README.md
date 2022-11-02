@@ -1,2 +1,2 @@
 # ComputerVision
-This repository contains all of my Computer Vision projects/applications.
+This repository contains some of my Computer Vision projects/applications.
